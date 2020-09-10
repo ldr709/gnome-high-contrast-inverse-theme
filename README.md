@@ -1,4 +1,4 @@
-Gnome HighContrastInverse Theme
+Gnome Legacy HighContrastInverse Theme
 ===============================
 
 For some ungodly reason Gnome decided to drop the HighContrastInverse theme.
